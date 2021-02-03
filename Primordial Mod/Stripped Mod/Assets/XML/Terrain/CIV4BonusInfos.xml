@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2005 rel. 3 U (http://www.altova.com) by Soren Johnson (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Bonus Infos -->
+<!-- WARNING: It is not recommended that you remove Bonuses due to complications with the LSystem -->
+<Civ4BonusInfos xmlns="x-schema:CIV4TerrainSchema.xml">
+	<BonusInfos>
+		<BonusInfo>
+			<Type>BONUS_STONE</Type>
+			<Description>TXT_KEY_BONUS_STONE</Description>
+			<Civilopedia>TXT_KEY_BONUS_STONE_PEDIA</Civilopedia>
+			<BonusClassType>BONUSCLASS_WONDER</BonusClassType>
+			<ArtDefineTag>ART_DEF_BONUS_STONE</ArtDefineTag>
+			<TechReveal>NONE</TechReveal>
+			<TechCityTrade>NONE</TechCityTrade>
+			<TechObsolete>NONE</TechObsolete>
+			<YieldChanges/>
+			<iAITradeModifier>0</iAITradeModifier>
+			<iAIObjective>0</iAIObjective>
+			<iHealth>0</iHealth>
+			<iHappiness>0</iHappiness>
+			<iPlacementOrder>3</iPlacementOrder>
+			<iConstAppearance>100</iConstAppearance>
+			<iMinAreaSize>3</iMinAreaSize>
+			<iMinLatitude>0</iMinLatitude>
+			<iMaxLatitude>90</iMaxLatitude>
+			<Rands>
+				<iRandApp1>0</iRandApp1>
+				<iRandApp2>0</iRandApp2>
+				<iRandApp3>0</iRandApp3>
+				<iRandApp4>0</iRandApp4>
+			</Rands>
+			<iPlayer>50</iPlayer>
+			<iTilesPer>0</iTilesPer>
+			<iMinLandPercent>0</iMinLandPercent>
+			<iUnique>0</iUnique>
+			<iGroupRange>0</iGroupRange>
+			<iGroupRand>0</iGroupRand>
+			<bArea>0</bArea>
+			<bHills>1</bHills>
+			<bFlatlands>1</bFlatlands>
+			<bNoRiverSide>1</bNoRiverSide>
+			<bNormalize>1</bNormalize>
+			<TerrainBooleans>
+				<TerrainBoolean>
+					<TerrainType>TERRAIN_PLAINS</TerrainType>
+					<bTerrain>1</bTerrain>
+				</TerrainBoolean>
+				<TerrainBoolean>
+					<TerrainType>TERRAIN_DESERT</TerrainType>
+					<bTerrain>1</bTerrain>
+				</TerrainBoolean>
+			</TerrainBooleans>
+			<FeatureBooleans/>
+			<FeatureTerrainBooleans/>
+		</BonusInfo>
+	</BonusInfos>
+</Civ4BonusInfos>

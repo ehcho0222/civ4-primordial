@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Alex Mantzaris (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- Building Class Infos -->
+<Civ4BuildingClassInfos xmlns="x-schema:CIV4BuildingsSchema.xml">
+	<BuildingClassInfos>
+		<BuildingClassInfo>
+			<Type>BUILDINGCLASS_PALACE</Type>
+			<Description>TXT_KEY_BUILDING_PALACE</Description>
+			<iMaxGlobalInstances>-1</iMaxGlobalInstances>
+			<iMaxTeamInstances>-1</iMaxTeamInstances>
+			<iMaxPlayerInstances>1</iMaxPlayerInstances>
+			<iExtraPlayerInstances>1</iExtraPlayerInstances>
+			<bNoLimit>1</bNoLimit>
+			<bMonument>0</bMonument>
+			<DefaultBuilding>BUILDING_PALACE</DefaultBuilding>
+			<VictoryThresholds/>
+		</BuildingClassInfo>
+	</BuildingClassInfos>
+</Civ4BuildingClassInfos>
