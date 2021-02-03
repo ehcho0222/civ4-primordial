@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by XMLSPY 2004 Professional Ed. Release 2, Installed Multi + SMP for 3 users (Firaxis Games) -->
+<!-- Sid Meier's Civilization 4 -->
+<!-- Copyright Firaxis Games 2005 -->
+<!-- -->
+<!-- GameText Great People -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_TIME_BC</Tag>
+		<English>%d1_Date MYA</English>
+		<French>%d1_Date MYA</French>
+		<German>%d1_Date MYA</German>
+		<Italian>%d1_Date MYA</Italian>
+		<Spanish>%d1_Date MYA</Spanish>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_PRI_ERA_ANCIENT</Tag>
+		<English>Ediacaran</English>
+		<French>Ediacaran</French>
+		<German>Ediacaran</German>
+		<Italian>Ediacaran</Italian>
+		<Spanish>Ediacaran</Spanish>
+	</TEXT>
+</Civ4GameText>
